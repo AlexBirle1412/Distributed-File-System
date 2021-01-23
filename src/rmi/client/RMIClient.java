@@ -36,7 +36,7 @@ public static final String ANSI_WHITE = "\u001B[37m";
         int nodeIndex = Integer.parseInt(reader.readLine());
         while(true){
             
-            System.out.println(ANSI_GREEN + "COMMNAD!" + ANSI_RESET);
+            System.out.println(ANSI_PURPLE + "COMMNAD!" + ANSI_RESET);
             String command=reader.readLine();
             
             if("stop".equals(command)){
