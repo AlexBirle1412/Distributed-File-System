@@ -1,2 +1,3 @@
 # CommandLineSD
-Crearea unei conexiuni intre servere care pot distribui fisiere si citi comenzi
+--JAVA
+A simple apication that ilustreate comunication between many clients and many nodes with one master using RMY.
